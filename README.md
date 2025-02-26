@@ -17,7 +17,7 @@ Word文档保护解除工具是一个简单易用的应用程序，旨在帮助�
 ## 成品（仅打包windows）
 [打包了成品](https://github.com/qq254950134/word_unprotection_tool/releases/tag/v1.0)
 
-![Uploading image.png…]()
+[界面预览](https://i.miji.bid/2025/02/26/86eceab4a2f5943916c18f4a25ff4d95.png)
 
 ## 安装
 1. 确保您的计算机上已安装Python 3.x。
